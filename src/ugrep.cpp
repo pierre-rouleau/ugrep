@@ -4560,6 +4560,7 @@ const Type type_table[] = {
   { "batch",        "bat,BAT,cmd,CMD", NULL,                                          NULL },
   { "bison",        "y,yy,ymm,ypp,yxx", NULL,                                         NULL },
   { "c",            "c,h,H,hdl,xs", NULL,                                             NULL },
+  { "c3",           "c3,c3i,c3t", NULL,                                               NULL },
   { "c++",          "cpp,CPP,cc,cxx,CXX,h,hh,H,hpp,hxx,Hxx,HXX", NULL,                NULL },
   { "clojure",      "clj", NULL,                                                      NULL },
   { "cpp",          "cpp,CPP,cc,cxx,CXX,h,hh,H,hpp,hxx,Hxx,HXX", NULL,                NULL },
@@ -8031,7 +8032,7 @@ void ugrep()
       }
     }
   }
-  
+
   // update include-dir to search case insensitive directories collected from --iglob
   flag_include_iglob_dir_size += all_include_dir_from_iglob.size();
   flag_all_include_dir.insert(flag_all_include_dir.begin(), all_include_dir_from_iglob.begin(), all_include_dir_from_iglob.end());

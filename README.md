@@ -4798,13 +4798,13 @@ in markdown:
                   may be repeated.  The possible file types can be (-tlist displays
                   a list): `actionscript', `ada', `adoc', `asm', `asp', `aspx',
                   `autoconf', `automake', `awk', `Awk', `basic', `batch', `bison',
-                  `c', `c++', `clojure', `cpp', `csharp', `css', `csv', `dart',
-                  `Dart', `delphi', `elisp', `elixir', `erlang', `fortran', `gif',
-                  `Gif', `go', `groovy', `gsp', `haskell', `html', `jade', `java',
-                  `jpeg', `Jpeg', `js', `json', `jsp', `julia', `kotlin', `less',
-                  `lex', `lisp', `lua', `m4', `make', `markdown', `matlab', `node',
-                  `Node', `objc', `objc++', `ocaml', `parrot', `pascal', `pdf',
-                  `Pdf', `perl', `Perl', `php', `Php', `png', `Png', `prolog',
+                  `c', `c3', `c++', `clojure', `cpp', `csharp', `css', `csv',
+                  `dart', `Dart', `delphi', `elisp', `elixir', `erlang', `fortran',
+                  `gif', `Gif', `go', `groovy', `gsp', `haskell', `html', `jade',
+                  `java',`jpeg', `Jpeg', `js', `json', `jsp', `julia', `kotlin',
+                  `less',`lex', `lisp', `lua', `m4', `make', `markdown', `matlab',
+                  `node', `Node', `objc', `objc++', `ocaml', `parrot', `pascal',
+                  `pdf',`Pdf', `perl', `Perl', `php', `Php', `png', `Png', `prolog',
                   `python', `Python', `r', `rpm', `Rpm', `rst', `rtf', `Rtf',
                   `ruby', `Ruby', `rust', `scala', `scheme', `seed7', `shell',
                   `Shell', `smalltalk', `sql', `svg', `swift', `tcl', `tex', `text',
@@ -5787,4 +5787,3 @@ the [man page](#man).  If you can't find it there and it looks like a bug, then
 reports are quickly addressed.
 
 *Copyright (c) Robert van Engelen, 2025*
-
