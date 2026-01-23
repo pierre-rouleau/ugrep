@@ -4800,17 +4800,17 @@ in markdown:
                   `autoconf', `automake', `awk', `Awk', `basic', `batch', `bison',
                   `c', `c3', `c++', `clojure', `coffeescript', `cpp', `crystal',
                   `csharp', `css', `csv',`dart', `Dart', `delphi', `elisp', `elixir',
-                  `erlang', `faust', `fennel', `fortran', `gif', `Gif', `go', `groovy',
-                  `gsp', `haskell', `html', `jade', `janet', `java', `jpeg', `Jpeg',
-                  `js', `json', `jsp', `julia', `kotlin', `less',`lex', `lisp', `lua',
-                  `m4', `make', `markdown', `matlab', `nim', `nix', `node', `Node',
-                  `objc', `objc++',`ocaml', `org', `parrot', `pascal', `pdf',`Pdf',
-                  `perl', `Perl', `php', `Php', `png', `Png', `prolog',
-                  `python', `Python', `r', `racket', `rpm', `Rpm', `rst', `rtf', `Rtf',
-                  `ruby', `Ruby', `rust', `scala', `scheme', `seed7', `shell',
-                  `Shell', `smalltalk', `sql', `svg', `swift', `tcl', `tex', `text',
-                  `tiff', `Tiff', `tt', `typescript', `vala`, `verilog', `vhdl',
-                  `vim', `xml', `Xml', `yacc', `yaml', `zig'.
+                  `erlang', `faust', `fennel', `fortran', `fsharp', `gif', `Gif',
+                  `go', `groovy', `gsp', `haskell', `html', `jade', `janet', `java',
+                  `jpeg', `Jpeg', `js', `json', `jsp', `julia', `kotlin', `less',
+                  `lex', `lisp', `lua', `m4', `make', `markdown', `matlab', `nim',
+                  `nix', `node', `Node', `objc', `objc++',`ocaml', `org', `parrot',
+                  `pascal', `pdf',`Pdf', `perl', `Perl', `php', `Php', `png', `Png',
+                  `prolog', `python', `Python', `r', `racket', `rpm', `Rpm', `rst',
+                  `rtf', `Rtf', `ruby', `Ruby', `rust', `scala', `scheme', `seed7',
+                  `shell', `Shell', `smalltalk', `sql', `svg', `swift', `tcl', `tex',
+                  `text', `tiff', `Tiff', `tt', `typescript', `vala`, `verilog',
+                  `vhdl', `vim', `xml', `Xml', `yacc', `yaml', `zig'.
 
            --tabs[=NUM]
                   Set the tab size to NUM to expand tabs for option -k.  The value
