@@ -4806,11 +4806,12 @@ in markdown:
                   `lex', `lisp', `lua', `m4', `make', `markdown', `matlab', `nim',
                   `nix', `node', `Node', `objc', `objc++',`ocaml', `org', `parrot',
                   `pascal', `pdf',`Pdf', `perl', `Perl', `php', `Php', `png', `Png',
-                  `prolog', `python', `Python', `r', `racket', `rpm', `Rpm', `rst',
-                  `rtf', `Rtf', `ruby', `Ruby', `rust', `scala', `scheme', `seed7',
-                  `shell', `Shell', `smalltalk', `sql', `svg', `swift', `tcl', `tex',
-                  `text', `tiff', `Tiff', `tt', `typescript', `vala`, `verilog',
-                  `vhdl', `vim', `xml', `Xml', `yacc', `yaml', `zig'.
+                  `prolog', `protobuf', `python', `Python', `r', `racket',
+                  `rpm', `Rpm', `rst', `rtf', `Rtf', `ruby', `Ruby', `rust',
+                  `scala', `scheme', `seed7', `shell', `Shell', `smalltalk', `sql',
+                  `svg', `swift', `tcl', `tex', `text', `tiff', `Tiff', `tt',
+                  `typescript', `vala`, `verilog', `vhdl', `vim', `xml', `Xml',
+                  `yacc', `yaml', `zig'.
 
            --tabs[=NUM]
                   Set the tab size to NUM to expand tabs for option -k.  The value

@@ -4625,6 +4625,7 @@ const Type type_table[] = {
   { "png",          "png", NULL,                                                      NULL },
   { "Png",          "png", NULL,                                                      "\\x89PNG\\x0d\\x0a\\x1a\\x0a" },
   { "prolog",       "pl,pro", NULL,                                                   NULL },
+  { "protobuf",     "proto", NULL,                                                    NULL },
   { "python",       "py", NULL,                                                       NULL },
   { "Python",       "py,pyi,pyw", NULL,                                               "#!\\h*/.*\\Wpython[23]?(\\W.*)?\\n" },
   { "r",            "R,r", NULL,                                                      NULL },
